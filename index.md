@@ -5,15 +5,15 @@
 ### Data Science
 
 [Twitter Classification](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/twitter.png?raw=true"/>
 
 ---
 [Biodiversity in National Parks](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/biod.png?raw=true"/>
 
 ---
 [Understanding Patterns in Guitar Chord Fingerings](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/guit.png?raw=true"/>
 
 ---
 
