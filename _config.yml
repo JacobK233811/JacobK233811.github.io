@@ -1,11 +1,9 @@
 title: Jacob Kasner # your name (or website title) here
-logo: "/images/Headshot_min_cloaked.png?raw=true" # your photo (or logo) here
+logo: "/images/hs_cs.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  High school graduate accepted to Rice University and taking a growth year to build a deep understanding of data science. 85% Completion of Codecademy Data Science career path. 
+  High school graduate accepted to Rice University as a Trustee Scholar Recipient and taking a growth year to build a deep understanding of data science. 85% Completion of Codecademy Data Science career path. 
   <br><br>
-  Developing unsupervised machine learning skills through Codecademy's Data Science career path. Exploring other areas of Python using Hard Difficulty Projects on JetBrains Academy <br> 
-  and Bioinformatics Projects from UC San Diego's Biology Meets Programming: Bioinformatics for Beginners on Coursera.
-  <br><br>
+  Developing unsupervised machine learning skills through Codecademy's Data Science career path. Exploring other areas of Python using Hard Difficulty Projects on JetBrains Academy.
   <a href="https://www.linkedin.com/in/jacob-kasner-7406a81ab/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
