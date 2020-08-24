@@ -2,28 +2,28 @@
 
 ---
 
-### Category Name 1 
+### Data Science
 
-[Project 1 Title](/sample_page)
+[Twitter Classification](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Biodiversity in National Parks](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Understanding Patterns in Guitar Chord Fingerings](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+### Other Python Projects
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Gibbs Sampler for Motif Finding in DNA](http://example.com/)
+- [Skew Diagram to Identify Origin of Replication](http://example.com/)
+- [Text-Based Browser](http://example.com/)
+- [To-Do List](https://github.com/JacobK233811/ToDoList)
+- [Hangman](https://github.com/JacobK233811/Hangman)
 
 ---
 
