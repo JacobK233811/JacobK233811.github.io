@@ -4,8 +4,8 @@ description: > # your text below (remove <br> elements if you don't need line br
   High school graduate accepted to Rice University as a Trustee Scholar Recipient and taking a growth year to build a deep understanding of data science. 85% Completion of Codecademy Data Science career path. 
   <br><br>
   Developing unsupervised machine learning skills through Codecademy's Data Science career path. Exploring other areas of Python using Hard Difficulty Projects on JetBrains Academy.
-  <br>
+  <br><br>
   <a href="https://www.linkedin.com/in/jacob-kasner-7406a81ab/">View My LinkedIn Profile</a> 
-  
+  <br><br><br>
 theme: jekyll-theme-minimal
 google_analytics: UA-176180940-1 # your Google Analytics tracking ID here
