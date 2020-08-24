@@ -9,7 +9,7 @@
 
 ---
 [Biodiversity in National Parks](/pdf/sample_presentation.pdf)
-<img src="images/biod.png?raw=true"/>
+<img src="images/landscape.jpg?raw=true"/>
 
 ---
 [Understanding Patterns in Guitar Chord Fingerings](http://example.com/)
