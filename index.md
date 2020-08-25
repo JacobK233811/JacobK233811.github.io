@@ -4,24 +4,20 @@
 
 ### Data Science
 
-[Twitter Classification](/sample_page)
+[Twitter Classification](https://github.com/JacobK233811/Twitter)
 <img src="images/twitter.png?raw=true"/>
 
 ---
-[Biodiversity in National Parks](/pdf/sample_presentation.pdf)
+[Biodiversity in National Parks](https://github.com/JacobK233811/Biodiversity)
 <img src="images/landscape.jpg?raw=true"/>
 
 ---
-[Understanding Patterns in Guitar Chord Fingerings](http://example.com/)
-<img src="images/guit.png?raw=true"/>
 
----
 
 ### Other Python Projects
 
-- [Gibbs Sampler for Motif Finding in DNA](http://example.com/)
-- [Skew Diagram to Identify Origin of Replication](http://example.com/)
-- [Text-Based Browser](http://example.com/)
+- [Gibbs Sampler for Motif Finding in DNA](https://github.com/JacobK233811/GibbsSampler)
+- [Skew Diagram to Identify Origin of Replication](https://github.com/JacobK233811/SkewDiagram)
 - [To-Do List](https://github.com/JacobK233811/ToDoList)
 - [Hangman](https://github.com/JacobK233811/Hangman)
 
