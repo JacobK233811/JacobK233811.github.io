@@ -18,8 +18,9 @@
 
 - [Gibbs Sampler for Motif Finding in DNA](https://github.com/JacobK233811/GibbsSampler)
 - [Skew Diagram to Identify Origin of Replication](https://github.com/JacobK233811/SkewDiagram)
+- [Text-Based Browser](https://github.com/JacobK233811/TextBasedBrowser)
 - [To-Do List](https://github.com/JacobK233811/ToDoList)
-- [Hangman](https://github.com/JacobK233811/Hangman)
+
 
 ---
 
