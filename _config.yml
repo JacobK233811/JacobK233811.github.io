@@ -2,10 +2,10 @@ title: Jacob Kasner # your name (or website title) here
 logo: "/images/Head-only_shot.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   High school graduate accepted to Rice University as a Trustee Scholarship Recipient and taking a growth year to build a deep understanding of data science. 90% Completion of Codecademy Data Science career path. 
-  <br>
-  Developing unsupervised machine learning skills through Codecademy's Data Science career path.
   <br><br>
-  <a href="https://www.linkedin.com/in/jacob-kasner-7406a81ab/">View My LinkedIn Profile</a> 
+  Developing unsupervised machine learning skills through Codecademy's Data Science career path.
+  <br><br><br>
+  <a href="https://www.linkedin.com/in/jacob-kasner-7406a81ab/">View My LinkedIn Profile</a>
   <br>
 theme: jekyll-theme-minimal
 google_analytics: UA-176180940-1 # your Google Analytics tracking ID here
