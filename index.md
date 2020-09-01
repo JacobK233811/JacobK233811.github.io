@@ -16,10 +16,13 @@
 
 ### Other Python Projects
 
-- [Gibbs Sampler for Motif Finding in DNA](https://github.com/JacobK233811/GibbsSampler)
-- [Skew Diagram to Identify Origin of Replication](https://github.com/JacobK233811/SkewDiagram)
+- [Smart Calculator](https://github.com/JacobK233811/SmartCalculator)
+- [To-Do List](https://github.com/JacobK233811/ToDoList)
 - [Text-Based Browser](https://github.com/JacobK233811/TextBasedBrowser)
 - [To-Do List](https://github.com/JacobK233811/ToDoList)
+- [Gibbs Sampler for Motif Finding in DNA](https://github.com/JacobK233811/GibbsSampler)
+- [Skew Diagram to Identify Origin of Replication](https://github.com/JacobK233811/SkewDiagram)
+
 
 
 ---
