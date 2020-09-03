@@ -5,11 +5,11 @@
 ### Data Science
 
 [Twitter Classification](https://github.com/JacobK233811/Twitter)
-<img src="images/twitter.png?raw=true"/>
+<img src="images/vir_twe.png?raw=true"/>
 
 ---
 [Biodiversity in National Parks](https://github.com/JacobK233811/Biodiversity)
-<img src="images/landscape.jpg?raw=true"/>
+<img src="images/biod_twopanel.png?raw=true"/>
 
 ---
 
