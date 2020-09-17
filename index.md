@@ -11,11 +11,6 @@
 [Biodiversity in National Parks](https://github.com/JacobK233811/Biodiversity)
 <img src="images/biod_twopanel.png?raw=true"/>
 
-### Scientific Publication
-
-[Cytokine Treatment for Myocarditis May Impact Cardiomyocytes Negatively](https://www.emerginginvestigators.org/articles/cytokine-treatment-for-myocarditis-may-directly-impact-cardiomyocytes-negatively)
-<img src="images/sp4.jpg?raw=true"/>
-
 ### Other Python Projects
 
 - [Masculinity Survey Clustering](https://github.com/JacobK233811/Masculinity)
@@ -25,8 +20,12 @@
 - [Gibbs Sampler for Motif Finding in DNA](https://github.com/JacobK233811/GibbsSampler)
 - [Skew Diagram to Identify Origin of Replication](https://github.com/JacobK233811/SkewDiagram)
 
-
 ---
+
+### Scientific Publication
+
+[Cytokine Treatment for Myocarditis May Impact Cardiomyocytes Negatively](https://www.emerginginvestigators.org/articles/cytokine-treatment-for-myocarditis-may-directly-impact-cardiomyocytes-negatively)
+<img src="images/sp4.jpg?raw=true"/>
 
 
 
