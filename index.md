@@ -23,7 +23,8 @@
 ---
 ### Hackathon Project
 [Board Game Bonanza Discord Bot](https://github.com/JacobK233811/BoardGameBonanza)
-<a href="https://www.youtube.com/watch?v=v79dreoWvmw&t=1s"><img src="C:\Users\jacob\OneDrive\Documents\GitHub\BoardGameBonanza\logoblack.png"></a>
+<a href="https://www.youtube.com/watch?v=v79dreoWvmw&t=1s"><img src="images/logoblack.png?raw=true"/></a>
+<p>Click the logo to access the demo video on YouTube.</p>
 
 ---
 
