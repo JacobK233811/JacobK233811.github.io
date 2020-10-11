@@ -23,7 +23,7 @@
 ---
 ### Hackathon Project
 [Board Game Bonanza Discord Bot](https://github.com/JacobK233811/BoardGameBonanza)
-<video src="https://www.youtube.com/watch?v=v79dreoWvmw&t=1s">Could not load.</video>
+<a href="https://www.youtube.com/watch?v=v79dreoWvmw&t=1s"><img src="C:\Users\jacob\OneDrive\Documents\GitHub\BoardGameBonanza\logoblack.png"></a>
 
 ---
 
