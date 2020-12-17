@@ -13,6 +13,7 @@
 
 ### Other Python Projects
 
+- [Manga New Chapter Checker](https://github.com/JacobK233811/MangaNewChapter)
 - [Masculinity Survey Clustering](https://github.com/JacobK233811/Masculinity)
 - [Smart Calculator](https://github.com/JacobK233811/SmartCalculator)
 - [Text-Based Browser](https://github.com/JacobK233811/TextBasedBrowser)
