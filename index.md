@@ -1,5 +1,5 @@
 ## Portfolio 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <em>[See MQuicker Here!](MQuicker)</em>
+
 
 ---
 
@@ -36,13 +36,9 @@
 
 - [Twitter Classification](https://github.com/JacobK233811/Twitter)
 - [Biodiversity in National Parks](https://github.com/JacobK233811/Biodiversity)
-- [Manga New Chapter Checker](https://github.com/JacobK233811/MangaNewChapter)
-- [Masculinity Survey Clustering](https://github.com/JacobK233811/Masculinity)
 - [Smart Calculator](https://github.com/JacobK233811/SmartCalculator)
-- [Text-Based Browser](https://github.com/JacobK233811/TextBasedBrowser)
 - [To-Do List](https://github.com/JacobK233811/ToDoList)
 - [Gibbs Sampler for Motif Finding in DNA](https://github.com/JacobK233811/GibbsSampler)
-- [Skew Diagram to Identify Origin of Replication](https://github.com/JacobK233811/SkewDiagram)
 
 ---
 <p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
