@@ -17,11 +17,19 @@
 
 ---
 
-### Hackathon Project
+### Hackathon Projects
+
+<p>Click the images to access the demo videos on YouTube.</p><br>
+
+[Team Titans Telemedicine Trends](https://github.com/will-hou/Titans-Rice-Datathon-2021)
+<a href="https://youtu.be/CHsekxfsJ2M" target="_blank"><img src="images/houston_lot.png?raw=true"/></a>
+<br>
+
+<br><br>
 [Board Game Bonanza Discord Bot](https://github.com/JacobK233811/BoardGameBonanza)
 <a href="https://www.youtube.com/watch?v=v79dreoWvmw&t=1s" target="_blank"><img src="images/logoblack.png?raw=true"/></a>
 <br>
-<p>Click the logo to access the demo video on YouTube.</p>
+
 
 ---
 
